@@ -9,7 +9,7 @@ pygame.init()
 
 #game window
 screen = pygame.display.set_mode((800,600),pygame.RESIZABLE)
-# Scale factor (for scaling game objects)
+# Scale factor 
 scale_factor_x = 1
 scale_factor_y = 1
 
@@ -224,7 +224,7 @@ def save_high_score(scorevalue):
     with open("assets/high_score.txt", "w") as file:
         file.write(str(scorevalue))
 
-# Load high score at the start of the game
+# Load high score 
 high_score = load_high_score()
 
 #Game loop
@@ -315,7 +315,7 @@ while running:
             high_score = scorevalue
             save_high_score(high_score)  # Save the new high score
 
-
+   #player function called
     player(playerX, playerY)
     show_score(textX,textY)
     show_levels(leveltextX, leveltextY)
