@@ -38,7 +38,7 @@ playerXchange= 0
 #explosion
 explosionImg= pygame.image.load('assets/explosion.png')
 
-#enemy jpgs
+#enemy images
 enemy_images = ['assets/enemy1.png', 'assets/enemy2.png', 'assets/enemy3.png','assets/enemy4.png','assets/enemy5.png','assets/enemy6.png','assets/enemy7.png','assets/enemy8.png']
 #enemy lists multiple
 enemyImg=[]
