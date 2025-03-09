@@ -12,3 +12,9 @@
 - ☠️ **Game Over:** If an alien touches your spaceship, the game ends instantly!
 
 ---
+## 🏆 Game Screens
+- **Game Start Window:** Press a button to begin your mission.
+- **Game Window:** The battle begins! Move, shoot, and survive.
+- **Game Over Screen:** If an alien reaches you, it's game over! Retry and beat your high score.
+
+---
