@@ -27,11 +27,11 @@
 
 ---
 ## 📌 Features to Explore
--**✔️ Built with Pygame.**
--**✔️ Continuous Alien Attacks.**
--**✔️ Smooth Controls & Fast Gameplay.**
--**✔️ Dynamic Score System.**
--**✔️ Immersive Sound Effects & Visuals.**
--**✔️ Addictive Arcade-Style Shooting.**
+- **✔️ Built with Pygame.**
+- **✔️ Continuous Alien Attacks.**
+- **✔️ Smooth Controls & Fast Gameplay.**
+- **✔️ Dynamic Score System.**
+- **✔️ Immersive Sound Effects & Visuals.**
+- **✔️ Addictive Arcade-Style Shooting.**
 
 ---
