@@ -4,3 +4,11 @@
 **Alien Invasion** is a thrilling arcade-style space shooter built using **Pygame**, where you must defend Earth from an endless wave of attacking aliens! Control your spaceship, dodge enemy forces, and eliminate aliens before they reach you. Survive as long as possible and set new high scores!
 
 ---
+## 🎮 Gameplay Mechanics
+- 👾 **Alien Attack:** The aliens continuously move toward your spaceship from the beginning of the game.
+- 🛸 **Spaceship Control:** Move **left** and **right** using the **arrow keys**.
+- 🔫 **Fire Lasers:** Shoot aliens using your powerful space blaster.
+- 💯 **Scoring System:** Each alien kill increases your score.
+- ☠️ **Game Over:** If an alien touches your spaceship, the game ends instantly!
+
+---
