@@ -18,3 +18,11 @@
 - **Game Over Screen:** If an alien reaches you, it's game over! Retry and beat your high score.
 
 ---
+## 🖥️ Controls
+| Action     | Key  |
+|------------|------|
+| Move Left  | ⬅️  |
+| Move Right | ➡️  |
+| Shoot      | 🔥 Spacebar |
+
+---
