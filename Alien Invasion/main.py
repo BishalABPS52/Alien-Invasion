@@ -4,7 +4,7 @@ import math
 import sys
 from pygame import mixer
 
--------------------
+--------------------
 #starting pygame
 -------------------
 pygame.init()
