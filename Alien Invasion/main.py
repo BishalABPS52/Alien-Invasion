@@ -90,13 +90,6 @@ def adjust_enemies():
 # Initialize enemies for level 1
 adjust_enemies()
 
-#enemy
-for i in range(numEnemies):
-    enemyImg.append(pygame.image.load(random.choice(enemy_images)))
-    enemyX.append(random.randint(0, 735))
-    enemyY.append(random.randint(30, 150))
-    enemyXchange.append(0.7)
-    enemyYchange.append(40)
 
 #bullet ready =bullet is not seen
 bullet_images= ['assets/bullet1.png','assets/bullet2.png']
