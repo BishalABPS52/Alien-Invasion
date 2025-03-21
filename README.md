@@ -35,5 +35,5 @@
 - **✔️ Addictive Arcade-Style Shooting.**
 
 ---
-## 🚀 Ready to Defend Earth? Play Now! 🌍👾
+## 🚀 Ready to Defend ? Play Now! 🌍👾
 ---
