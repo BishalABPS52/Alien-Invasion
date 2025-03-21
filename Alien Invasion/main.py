@@ -98,14 +98,6 @@ for i in range(numEnemies):
     enemyXchange.append(0.7)
     enemyYchange.append(40)
 
-#bullet ready =bullet is not seen
-bullet_images= ['assets/bullet1.png','assets/bullet2.png']
-bulletImg= pygame.image.load(random.choice(bullet_images))
-bulletX= 0
-bulletY= 550
-bulletXchange= 0
-bulletYchange= 10
-bulletState= "ready"
 
 
 # Pause button coordinates and dimensions
