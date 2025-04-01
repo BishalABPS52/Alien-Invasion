@@ -4,12 +4,11 @@ import math
 import sys
 from pygame import mixer
 
-
 pygame.init()
 
 #game window
 screen = pygame.display.set_mode((800,600),pygame.RESIZABLE)
-# Scale factor 
+# Scale factor to scale
 scale_factor_x = 1
 scale_factor_y = 1
 
