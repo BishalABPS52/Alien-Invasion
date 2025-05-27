@@ -64,25 +64,11 @@ menu_selected = 0
 leveltextX= 700
 leveltextY= 10
 level = 1
-level_thresholds = [30,50,70, 100]  # Scores required to level up
+level_thresholds = [30,50,70, 100]  # Scores required to jump to next level
 max_levels = 5
 enemies_by_level = [5, 7, 9,10, 15]  # Number of enemies for each level
 
 # Adjust number of enemies for the current level
-def adjust_enemies():
-    global numEnemies, enemyImg, enemyX, enemyY, enemyXchange, enemyYchange
-    numEnemies = enemies_by_level[level - 1]
-    enemyImg = []
-    enemyX = []
-    enemyY = []
-    enemyXchange = []
-    enemyYchange = []
-    for i in range(numEnemies):
-        enemyImg.append(pygame.image.load(random.choice(enemy_images)))
-        enemyX.append(random.randint(0, 735))
-        enemyY.append(random.randint(30, 150))
-        enemyXchange.append(0.7)
-        enemyYchange.append(40)
 
 # Initialize enemies for level 1
 adjust_enemies()
